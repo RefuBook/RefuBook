@@ -1,4 +1,4 @@
-# Capstone Project
+# Capstone Project [![Netlify Status](https://api.netlify.com/api/v1/badges/507bd9a4-09bd-40e0-911a-23987db9b51f/deploy-status)](https://app.netlify.com/sites/refubook/deploys)
 
 You'll be building this project with your peers. You'll be able to read more about the project you will build on your Canvas.
 
